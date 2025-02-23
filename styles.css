@@ -61,3 +61,10 @@ button:hover {
     overflow-y: auto;
 }
 
+.result-item {
+    padding: 5px 0;
+}
+
+.old-result {
+    color: gray;
+}
